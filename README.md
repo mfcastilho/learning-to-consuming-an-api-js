@@ -1,1 +1,1 @@
-# Learning to consuming an api with js
+# Learning to consuming an api with javascript
